@@ -1,0 +1,28 @@
+.iconos{
+    border-radius: 50%; 
+    width: 50px; 
+    height: 50px;
+    border: 2px solid black;
+    object-fit: cover;
+    
+}
+
+.divicon{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+
+.divimgs{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.imgs{
+    border-radius: 10%;
+    width: 250px;
+    height: 250px;
+    border: 2px solid  black;
+    object-fit: cover;
+}
